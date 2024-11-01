@@ -3,7 +3,12 @@ body {
     background-image: url(Fondo.jpg);
     color: white;
 }
-
+.carteles{
+    background-color: white;
+    color: black;
+    width: 514px;
+    height: 163px;
+}
 
 /*inicio*/
 
@@ -19,7 +24,6 @@ body {
 
 
 /*Barra de navegacion*/
-
 
 button{
     width: 120px; ;
@@ -57,3 +61,19 @@ button{
     position: relative;
     top: 150px;
 } */
+
+/* Sobre mi */
+
+.fotocv{
+    width: 250px;
+
+}
+
+/* Servicios */
+
+.precio{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 50px;
+}
