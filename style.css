@@ -128,17 +128,17 @@ ul {
 }
 
 /* Estilo para servicios */
-.card-servicios {
+.card-servicios{
   color: black;
 }
-.card-body-servicios {
+.card-body-servicios{
   border: solid rgb(7, 158, 158) 2px;
   padding: 10px;
   margin: 0px;
   border-radius: 10px;
   background-color: rgba(255, 255, 255, 0.404);
 }
-.card-link-servicios {
+.card-link-servicios{
   padding: 5px;
   background-color: rgb(38, 34, 77);
   color: white;
@@ -257,11 +257,11 @@ ul {
     margin: 10px;
   }
   /* Ajuste para proyectos */
-  .bodyProyectos {
+  .bodyProyectos{
     display: grid;
     grid-template-rows: 10% 80% 30%;
   }
-  .cardsProyectos {
+  .cardsProyectos{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -269,7 +269,7 @@ ul {
   .card-img {
     width: 200px;
   }
-  .cardProyectos {
+  .cardProyectos{
     margin: 10px;
     padding: 20px;
     border-radius: 30px;
@@ -279,18 +279,18 @@ ul {
   }
 
   /* Ajuste de servicios */
-  .bodyServicios {
+  .bodyServicios{
     display: grid;
     grid-template-rows: 10% 80% 20%;
   }
-  .main-servicios {
+  .main-servicios{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
   }
   /* Ajuste de contactos */
-  .bodyContacto {
+  .bodyContacto{
     display: grid;
     grid-template-rows: 10% 80% 20%;
   }
@@ -441,31 +441,31 @@ ul {
     align-items: center;
   }
   /* Ajuste de servicios */
-  .bodyServicios {
+  .bodyServicios{
     display: grid;
     grid-template-rows: 15% 75% 10%;
   }
-  .main-servicios {
+  .main-servicios{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
     align-content: space-around;
   }
-  .card-body-servicios {
+  .card-body-servicios{
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  .card-link-servicios {
+  .card-link-servicios{
     margin: 5px;
   }
   /* Ajuste de contactos */
-  .bodyContacto {
+  .bodyContacto{
     display: grid;
     grid-template-rows: 15% 75% 10%;
   }
-  .main-contacto {
+  .main-contacto{
     display: flex;
     align-content: center;
     align-items: center;
